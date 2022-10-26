@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    margin: 5% 0;
+    justify-content: center;
+    width: 100vw;
+}
+.nav-links {
+    /* display: flex;
+    justify-content: space-between; */
+    margin-left: 20%;
+    margin-right: 20px;
+
+}
+.search {
+    margin-left: 100px;
+    margin-right: 25%;
+}
+.link{
+    margin-left: 4px;
+}
+.logo {
+    font-size: 3.5em;
+    margin: -2%;
+    margin-left: 1%;
+}
+
+.account-link {
+    margin-right: 1%;
+}
